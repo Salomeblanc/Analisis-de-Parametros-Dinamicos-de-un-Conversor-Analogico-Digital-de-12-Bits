@@ -7,7 +7,6 @@ Laboratorio de la asignatura **Comunicaciones Digitales** — Programa de Ingeni
 ## Autores
 
 - Bohorquez Blanco Salome — 1401654
-- 
 - Riveros Sierra Harol Felipe — 1401660
 
 **Docente:** Ing. José de Jesús Rugeles Uribe
