@@ -1,0 +1,1 @@
+# Analisis-de-Parametros-Dinamicos-de-un-Conversor-Analogico-Digital-de-12-Bits
